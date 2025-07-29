@@ -31,7 +31,7 @@ This project includes a Bash script for fully automating the deployment of a sec
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ayodeji2019/wordpress-auto-deploy.git
+git clone https://github.com/yourusername/wp-auto-deploy.git
 cd wp-auto-deploy
 ```
 
@@ -69,13 +69,13 @@ CLOUDFLARE_ZONE_ID="your_zone_id"
 ### Make the script executable:
 
 ```bash
-chmod +x wordpress_deploy_script.sh
+chmod +x deploy.sh
 ```
 
 ### Run the script:
 
 ```bash
-./wordpress_deploy_script.sh
+./deploy.sh
 ```
 
 ---
